@@ -1,0 +1,6 @@
+print('Hello, World!')
+print(400+20)
+print(200*2+20)
+print()
+print("The End", "of the code")
+print(123)

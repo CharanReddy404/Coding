@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/12-NumberInWord/12-NumberInWord.iml" filepath="$PROJECT_DIR$/12-NumberInWord/12-NumberInWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-NumberOfDaysInMonth/13-NumberOfDaysInMonth.iml" filepath="$PROJECT_DIR$/13-NumberOfDaysInMonth/13-NumberOfDaysInMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-SumOdd/14-SumOdd.iml" filepath="$PROJECT_DIR$/14-SumOdd/14-SumOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-NumberPalindrome/15-NumberPalindrome.iml" filepath="$PROJECT_DIR$/15-NumberPalindrome/15-NumberPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-FirstAndLastDigitSum/16-FirstAndLastDigitSum.iml" filepath="$PROJECT_DIR$/16-FirstAndLastDigitSum/16-FirstAndLastDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-EvenDigitSum/17-EvenDigitSum.iml" filepath="$PROJECT_DIR$/17-EvenDigitSum/17-EvenDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-SharedDigit/18-SharedDigit.iml" filepath="$PROJECT_DIR$/18-SharedDigit/18-SharedDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-LastDigitChecker/19-LastDigitChecker.iml" filepath="$PROJECT_DIR$/19-LastDigitChecker/19-LastDigitChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-GreatestCommomDivisor/20-GreatestCommomDivisor.iml" filepath="$PROJECT_DIR$/20-GreatestCommomDivisor/20-GreatestCommomDivisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-AllFactors/21-AllFactors.iml" filepath="$PROJECT_DIR$/21-AllFactors/21-AllFactors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-PerfectNumber/22-PerfectNumber.iml" filepath="$PROJECT_DIR$/22-PerfectNumber/22-PerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23=NumberToWords/23=NumberToWords.iml" filepath="$PROJECT_DIR$/23=NumberToWords/23=NumberToWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-LargestPrime/25-LargestPrime.iml" filepath="$PROJECT_DIR$/25-LargestPrime/25-LargestPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-DiagonalStar/26-DiagonalStar.iml" filepath="$PROJECT_DIR$/26-DiagonalStar/26-DiagonalStar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-InputCalculator/27-InputCalculator.iml" filepath="$PROJECT_DIR$/27-InputCalculator/27-InputCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28-PaintJob/28-PaintJob.iml" filepath="$PROJECT_DIR$/28-PaintJob/28-PaintJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29-SumCalculator/29-SumCalculator.iml" filepath="$PROJECT_DIR$/29-SumCalculator/29-SumCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30-Person/30-Person.iml" filepath="$PROJECT_DIR$/30-Person/30-Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31-WallArea/31-WallArea.iml" filepath="$PROJECT_DIR$/31-WallArea/31-WallArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-Point/32-Point.iml" filepath="$PROJECT_DIR$/32-Point/32-Point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33-CarpetCostCalculator/33-CarpetCostCalculator.iml" filepath="$PROJECT_DIR$/33-CarpetCostCalculator/33-CarpetCostCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34-Complex Operations/34-Complex Operations.iml" filepath="$PROJECT_DIR$/34-Complex Operations/34-Complex Operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35-Cylinder/35-Cylinder.iml" filepath="$PROJECT_DIR$/35-Cylinder/35-Cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36-PoolArea/36-PoolArea.iml" filepath="$PROJECT_DIR$/36-PoolArea/36-PoolArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" filepath="$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" filepath="$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banking/Banking.iml" filepath="$PROJECT_DIR$/Banking/Banking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BarkingDog/BarkingDog.iml" filepath="$PROJECT_DIR$/BarkingDog/BarkingDog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConvertPoundsToKG/ConvertPoundsToKG.iml" filepath="$PROJECT_DIR$/ConvertPoundsToKG/ConvertPoundsToKG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" filepath="$PROJECT_DIR$/DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" filepath="$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitSumChallenge/DigitSumChallenge.iml" filepath="$PROJECT_DIR$/DigitSumChallenge/DigitSumChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncapsulationChallenge/EncapsulationChallenge.iml" filepath="$PROJECT_DIR$/EncapsulationChallenge/EncapsulationChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" filepath="$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EqualityPrinter/EqualityPrinter.iml" filepath="$PROJECT_DIR$/EqualityPrinter/EqualityPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYearCalculator/LeapYearCalculator.iml" filepath="$PROJECT_DIR$/LeapYearCalculator/LeapYearCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Megabytesonverter/Megabytesonverter.iml" filepath="$PROJECT_DIR$/Megabytesonverter/Megabytesonverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinAndMaxChallenge/MinAndMaxChallenge.iml" filepath="$PROJECT_DIR$/MinAndMaxChallenge/MinAndMaxChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinElementChallenge/MinElementChallenge.iml" filepath="$PROJECT_DIR$/MinElementChallenge/MinElementChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinutesToYearsAndDaysCalculator/MinutesToYearsAndDaysCalculator.iml" filepath="$PROJECT_DIR$/MinutesToYearsAndDaysCalculator/MinutesToYearsAndDaysCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPTest/OOPTest.iml" filepath="$PROJECT_DIR$/OOPTest/OOPTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperatorChallenge/OperatorChallenge.iml" filepath="$PROJECT_DIR$/OperatorChallenge/OperatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlayingCat/PlayingCat.iml" filepath="$PROJECT_DIR$/PlayingCat/PlayingCat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PositiveNegativeZero/PositiveNegativeZero.iml" filepath="$PROJECT_DIR$/PositiveNegativeZero/PositiveNegativeZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" filepath="$PROJECT_DIR$/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInputChallenge/ReadingUserInputChallenge.iml" filepath="$PROJECT_DIR$/ReadingUserInputChallenge/ReadingUserInputChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseArrayChallenge/ReverseArrayChallenge.iml" filepath="$PROJECT_DIR$/ReverseArrayChallenge/ReverseArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondsAndMinutes/SecondsAndMinutes.iml" filepath="$PROJECT_DIR$/SecondsAndMinutes/SecondsAndMinutes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum3And5Challenge/Sum3And5Challenge.iml" filepath="$PROJECT_DIR$/Sum3And5Challenge/Sum3And5Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" filepath="$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" />
+    </modules>
+  </component>
+</project>
