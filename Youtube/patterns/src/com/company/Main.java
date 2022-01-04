@@ -8,7 +8,7 @@ public class Main {
 //        Patterns pattern = new Patterns();
 //        pattern.patterns();
         AdvancePattern advPattern = new AdvancePattern();
-        advPattern.advancePattern();
+        advPattern.numberPyramid();
     }
 
 
