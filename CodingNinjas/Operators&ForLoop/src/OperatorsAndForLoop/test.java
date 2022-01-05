@@ -6,24 +6,14 @@ public class test {
 
 	public static void main(String[] args) {
 		 
-		Scanner sc = new Scanner(System.in);
-		int n = sc.nextInt();
- 
-        for (int num = 2; num <= n; num++)
-        {
-            boolean isPrime = true;
-            for (int i=2; i <= num/2; i++)
-            {
-                if ( num % i == 0)
-                {
-                    isPrime = false;
-                    break;
-                }
-            }
- 
-            if ( isPrime == true )
-                System.out.println(num);
-        }
+		int number = 987650, reverse = 0;  
+		while(number != 0)   
+		{  
+		int remainder = number % 10;  
+		reverse = reverse * 10 + remainder;  
+		number = number/10;  
+		}  
+		System.out.println("The reverse of the given number is: " + reverse);  
+		}  
     }
 
-}
