@@ -5,15 +5,19 @@ import java.util.Scanner;
 public class test {
 
 	public static void main(String[] args) {
-		 
-		int number = 987650, reverse = 0;  
-		while(number != 0)   
-		{  
-		int remainder = number % 10;  
-		reverse = reverse * 10 + remainder;  
-		number = number/10;  
-		}  
-		System.out.println("The reverse of the given number is: " + reverse);  
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		for(int i=0; i<n; i++) {
+			for(int j=n; j>i+1; j--) {
+				System.out.print(j);
+			}
+			System.out.print("*");
+			for(int k=i; k>0; k--) {
+				System.out.print(k);
+			}
+			System.out.println();
+		}
+
 		}  
     }
 
